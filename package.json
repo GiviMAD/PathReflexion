@@ -1,0 +1,19 @@
+{
+  "name": "path-reflexion",
+  "version": "1.0.0",
+  "description": "Utils for read or write value into an object by string array with property names as items",
+  "main": "index.js",
+  "typings": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reflexion"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiviMAD/PathReflexion.git"
+  },
+  "author": "Miguel Álvarez Díez",
+  "license": "MIT"
+}
